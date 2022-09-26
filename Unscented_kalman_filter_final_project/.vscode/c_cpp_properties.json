@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**","/home/nivas/Desktop/sensor_fusion/Kalman_filter/1D_kalman_Filter/src",
+                "/usr/include/",
+                "/usr/local/include/",
+                "/usr/include/pcl-1.10",
+                "/usr/include/eigen3",
+                "/usr/include/vtk-7.1",
+                "/usr/local/include/opencv4"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
+
